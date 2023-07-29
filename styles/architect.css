@@ -1,6 +1,11 @@
 /* work sans font from google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Open+Sans:wght@400;700;800&family=Work+Sans:wght@400;500;600;700&display=swap');
 
+
+body {
+    margin: 0;
+}
+
 /* Shared styles */
 * {
     font-family: 'Lato', sans-serif;
